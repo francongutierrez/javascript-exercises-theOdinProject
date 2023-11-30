@@ -1,0 +1,11 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "The main purpose of this exercise is to walk you through the process of running the tests and make sure everything is set up and running correctly.",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "helloWorld.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

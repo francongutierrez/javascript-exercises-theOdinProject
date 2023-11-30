@@ -41,7 +41,7 @@ Just to make sure, in case you're confused at this point, the test is telling yo
 This is what the final function should look like:
 ```javascript
 const helloWorld = function() {
-  return 'Hello, World!'
+  return ''
 }
 
 module.exports = helloWorld
